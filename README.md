@@ -1,6 +1,3 @@
-# OCM-Framework
-Open non-equilibrium thermodynamic framework for topological gravitation and dark-matter-free cosmology.
-
 # OCM-Framework: Order-Creator Manifold Cosmology
 
 An open mathematical and computational framework for non-equilibrium topological gravitation, non-singular black hole interiors, and dark-matter-free galactic dynamics.
